@@ -1,0 +1,16 @@
+#app-icon{
+    font-size: 100px;
+}
+#title-text{
+    font-size: 30px;
+}
+#degree{
+    font-size: 50px;
+}
+#status{
+    font-size: 20px;
+    margin-left: 20px;
+}
+#arrow{
+    margin-right: 10px;
+}
